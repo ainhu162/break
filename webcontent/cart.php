@@ -4,7 +4,7 @@ session_start();
 $connect = mysqli_connect("localhost", "root", "", "shopping_cart");
 ?>
 <!DOCTYPE html>
-<html>
+<html>haha
 	<head>
 		<title>wbl adsMulti Tab Shopping Cart By Using PHP Ajax Jquery Bootstrap Mysql</title>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
