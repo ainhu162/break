@@ -4,7 +4,7 @@ session_start();
 $connect = mysqli_connect("localhost", "root", "", "shopping_cart");
 ?>
 <!DOCTYPE html>
-<html>huhu
+<html>huhud?dsd?ds
 	<head>
 =======
 		<title>wbldsad Multil Tab Shopping Cart By Using PHP Ajax Jquery Bootstrap Mysql</title>
